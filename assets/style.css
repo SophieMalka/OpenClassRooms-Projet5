@@ -112,7 +112,7 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #5F5A25;
 	border-radius: 0;
 }
 
@@ -224,7 +224,7 @@ body {
 
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #5F5A25;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -264,7 +264,7 @@ form textarea {
 }
 
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #5F5A25;
 	padding: .5em 1em;
 	border-color: #000000;
 	color: #FFFFFF;
