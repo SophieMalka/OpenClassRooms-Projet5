@@ -153,7 +153,7 @@
           index = i ;
         }
       });
-      next =
+      prev =
         imagesCollection[index - 1] ||
         imagesCollection[imagesCollection.length - 1];
       $(".lightboxImage").attr("src", $(prev).attr("src"));
